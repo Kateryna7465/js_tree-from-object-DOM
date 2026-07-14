@@ -12,7 +12,7 @@ Use keys as list items.
 
 1. Replace `<your_account>` with your GitHub username in the link
     - [DEMO LINK](https://<Kateryna7465>.github.io/js_tree-from-object-DOM/)
-2. Follow [this instructions](https://github.com/mate-academy/js_task-DOM-guideline)
+2. Follow [this instructions](https://github.com/Kateryna7465/js_task-DOM-guideline)
     - Run `npm run test` command to test your code;
     - Run `npm run test:only -- -n` to run fast test ignoring linter;
     - Run `npm run test:only -- -l` to run fast test with additional info in console, ignoring linter.
