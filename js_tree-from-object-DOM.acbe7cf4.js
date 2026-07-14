@@ -1,0 +1,2 @@
+let e=document.querySelector("#tree");e&&function e(t,n){if(0===Object.keys(n).length)return;let l=document.createElement("ul");for(let r in n){let a=document.createElement("li");a.textContent=r,e(a,n[r]),l.appendChild(a),t.appendChild(l)}}(e,{Drink:{Wine:{},Schnaps:{}},Fruit:{Red:{Cherry:{},Strawberry:{}},Yellow:{Banana:{},Pineapple:{}}}});
+//# sourceMappingURL=js_tree-from-object-DOM.acbe7cf4.js.map
